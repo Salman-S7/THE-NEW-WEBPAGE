@@ -1,6 +1,9 @@
 .main{
     background-color: #1f2937;
     color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
 }
 
 .headerElements{
@@ -8,6 +11,7 @@
     justify-content: space-between;
     margin: 10px;
     border: 10px;
+    padding-top: 20px;
 }
 
 .together{
@@ -16,14 +20,79 @@
     justify-content: space-between;
     margin: 10px;
     border: 10px;
+    font-size: 24px;
 
+}
+
+.logo{
+    font-size: 24px;
+
+}
+
+.signup{
+    padding: 1px;
+   
 }
 
 .TextImage{
     display: flex;
     justify-content: space-between;
+    margin: 10px;
 }
 
 .text{
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+.awesome{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+   
+    
+}
+
+.middle{
+    background-color: #96b3ec;
+    padding: 20px 100px 40px 100px;
+   
+}
+
+.TandI{
+    display: flex;
+    justify-content: space-between;
+}
+.text1{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.text3{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    padding: 20px 40px 20px 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: #f9faf8;
 }
