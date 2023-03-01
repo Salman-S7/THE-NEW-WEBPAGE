@@ -14,15 +14,19 @@
     padding-top: 20px;
 }
 
-.together{
-    display: flex;
-    align-content: end;
-    justify-content: space-evenly;
+.to{
     
-   
-   
-    font-size: 24px;
+    justify-content: space-evenly;
+}
 
+.aa{
+    color: yellow;
+}
+.ab{
+    color: red;
+}
+.ac{
+    color: green;
 }
 
 .logo{
@@ -111,3 +115,4 @@
     height: 200px;
     width: 200px;
 }
+
