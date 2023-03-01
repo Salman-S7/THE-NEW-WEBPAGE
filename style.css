@@ -1,0 +1,29 @@
+.main{
+    background-color: #1f2937;
+    color: white;
+}
+
+.headerElements{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 10px;
+}
+
+.together{
+    display: flex;
+    align-content: end;
+    justify-content: space-between;
+    margin: 10px;
+    border: 10px;
+
+}
+
+.TextImage{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    display: block;
+}
